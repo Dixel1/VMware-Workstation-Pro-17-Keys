@@ -11,7 +11,7 @@ Please, refer to [Sarvagon/README.md](https://github.com/Sarvagon/Sarvagon#readm
   - Linux version: https://www.vmware.com/go/getworkstation-linux
 - Install it (a restart may be required).
 - Open the application and past one of those licence keys below.
-- You now just have to enjoy your full version of VMware Workstation Pro 16.
+- You now just have to enjoy your full version of VMware Workstation Pro 17.
 
 ------------------------------
 
